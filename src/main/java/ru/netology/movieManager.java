@@ -1,6 +1,6 @@
 package ru.netology;
 
-public class movieManager {
+public class MovieManager {
     private String[] moviesPoster = new String[0];
 
     private int limitLength = 10;
